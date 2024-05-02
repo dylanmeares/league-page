@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to The House of Black and White.</p>
+  <p>Welcome to The House of Black and White! The 2024 Rookie Draft is almost upon us.</p>
 `;
 
 /*   STEP 3   */
